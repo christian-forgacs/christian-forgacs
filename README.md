@@ -15,7 +15,7 @@
 - 💬 I’m mostly active within the **Laravel** and **TYPO3** community.
 - 🔭 I’m currently working at [wunderbit GmbH & Co. KG][wunderbit] as CTO.
 - ⚙️ I use daily: `.php`, `.ts`, `.js`, `.html`, `.css`
-- 🎶 I’m an passionate musician and love Techno.
+- 🎶 I’m an passionate musician and I love Techno.
 - ⚡ Fun fact: I collect Pokémon Cards.
 
 ### 📬 Get in Touch
