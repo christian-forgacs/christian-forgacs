@@ -20,7 +20,7 @@
 
 ### 📬 Get in Touch
 
-- Stack Overflow: [stackoverflow.com/christian-forg%c3%a1cs][stackoverflow]
+- Stack Overflow: [stackoverflow.com/christian-forgács][stackoverflow]
 - GitHub: [github.com/christian-forgacs][github]
 - LinkedIn: [linkedin.com/christian-forgács][linkedin]
 - Twitter: [twitter.com/c_forgacs][twitter]
