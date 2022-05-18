@@ -4,7 +4,8 @@
 ![HTML](https://img.shields.io/badge/HTML-Expert-orange)
 ![CSS](https://img.shields.io/badge/CSS-Expert-lightblue)
 ![JavaScript](https://img.shields.io/badge/JavaScript-Expert-yellow)
-![TypeScript](https://img.shields.io/badge/TypeScript-Intermediate-blue)
+![TypeScript](https://img.shields.io/badge/TypeScript-Expert-blue)
+![Node.js](https://img.shields.io/badge/Node-Intermediate-green)
 
 #### I’m a Full-Stack Developer. Proudly from [Weilburg, Hesse, Germany][weilburg] 🇩🇪
 
