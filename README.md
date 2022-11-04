@@ -13,7 +13,7 @@
 
 - 🌱 I’m currently learning more TypeScript.
 - 👯 I’m looking to collaborate on open source projects related to Node.js or PHP.
-- 💬 I’m mostly active within the **Laravel** and **TYPO3** community.
+- 💬 I’m mostly active within the **[Laravel][laravel]**, **[NestJS][nestjs]** and **[TYPO3][typo3]** community.
 - 🔭 I’m currently working at [wunderbit GmbH & Co. KG][wunderbit] as CTO.
 - ⚙️ I use daily: `.php`, `.ts`, `.js`, `.html`, `.css`
 - 🎶 I’m an passionate musician and I love Techno.
@@ -47,3 +47,6 @@
 [twitter]: https://twitter.com/c_forgacs
 [instagram]: https://www.instagram.com/cforgacs
 [site]: https://www.christianforgacs.de
+[laravel]: https://laravel.com/
+[typo3]: https://typo3.org/
+[nestjs]: https://nestjs.com/
