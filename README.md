@@ -14,7 +14,7 @@
 - 🌱 I’m currently learning more TypeScript.
 - 👯 I’m looking to collaborate on open source projects related to Node.js or PHP.
 - 💬 I’m mostly active within the **[Laravel][laravel]**, **[NestJS][nestjs]** and **[TYPO3][typo3]** community.
-- 🔭 I’m currently working at [wunderbit GmbH & Co. KG][wunderbit] as CTO.
+- 🔭 I’m currently working at [wunderbit GmbH & Co. KG][wunderbit] as full stack developer.
 - ⚙️ I use daily: `.php`, `.ts`, `.js`, `.html`, `.css`
 - 🎶 I’m an passionate musician and I love Techno.
 - ⚡ Fun fact: I collect Pokémon Cards.
