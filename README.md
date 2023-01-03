@@ -7,7 +7,7 @@
 ![TypeScript](https://img.shields.io/badge/TypeScript-Expert-blue)
 ![Node.js](https://img.shields.io/badge/Node-Intermediate-green)
 
-#### I’m a Full-Stack Developer. Proudly from [Weilburg, Hesse, Germany][weilburg] 🇩🇪
+#### I’m a full stack developer. Proudly from [Weilburg, Hesse, Germany][weilburg] 🇩🇪
 
 <hr>
 
